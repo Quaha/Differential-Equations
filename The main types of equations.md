@@ -2,9 +2,13 @@
 ## Таблица интегралов
 
 $$
-\int {a^x dx} = \frac{a^x}{ln(a)} + C
+\mathit{
+\int a^x dx = \frac{a^x}{\ln{(a)}} + C
+}
 $$
 
 $$
-\int \frac{dx}{\sqrt{1-x^2}} = 
+\mathit{
+\int \frac{1}{\sqrt{1-x^2}} dx = arcsin(x) + C
+}
 $$
