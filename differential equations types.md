@@ -229,6 +229,7 @@ N = (...)_y' + \varphi'(y)
 $$
 
 Выражаем Фи штрих и интегрируем его:
+
 $$
 \varphi(y) = \int \varphi'(y)dy = \space ... \space+ \space C
 $$
