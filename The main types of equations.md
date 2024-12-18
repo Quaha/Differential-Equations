@@ -2,7 +2,9 @@
 ## Таблица интегралов
 
 $$
-\begin{equation}
-\int f(x) \, dx
-\end{equation}
+\int {a^x dx} = \frac{a^x}{ln(a)} + C
+$$
+
+$$
+\int \frac{dx}{\sqrt{1-x^2}} = 
 $$
