@@ -469,7 +469,7 @@ I. **Введение параметра**
 1. Вводим параметр $p = y'$:
 
 $$
-\frac{dy}{dx} = p; \qquad dx = \frac{dy}{p} \quad или \quad dy = \frac{dx}{p}
+\frac{dy}{dx} = p; \qquad dx = \frac{dy}{p} \quad или \quad dy = pdx
 $$
 
 2. Получили функцию $F(x, y, p)$;
